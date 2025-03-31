@@ -1,0 +1,9 @@
+:root {
+	font-family: var(--ds-font-family), sans-serif;
+	font-feature-settings: "cv05" 1;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
