@@ -951,7 +951,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="accent"], [data-color-scheme][data-color="accent"] {
+[data-color="accent"] {
   --ds-color-background-default: var(--ds-color-accent-background-default);
   --ds-color-background-tinted: var(--ds-color-accent-background-tinted);
   --ds-color-surface-default: var(--ds-color-accent-surface-default);
@@ -977,7 +977,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="danger"], [data-color-scheme][data-color="danger"] {
+[data-color="danger"] {
   --ds-color-background-default: var(--ds-color-danger-background-default);
   --ds-color-background-tinted: var(--ds-color-danger-background-tinted);
   --ds-color-surface-default: var(--ds-color-danger-surface-default);
@@ -1003,7 +1003,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="extra1"], [data-color-scheme][data-color="extra1"] {
+[data-color="extra1"] {
   --ds-color-background-default: var(--ds-color-extra1-background-default);
   --ds-color-background-tinted: var(--ds-color-extra1-background-tinted);
   --ds-color-surface-default: var(--ds-color-extra1-surface-default);
@@ -1029,7 +1029,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="extra2"], [data-color-scheme][data-color="extra2"] {
+[data-color="extra2"] {
   --ds-color-background-default: var(--ds-color-extra2-background-default);
   --ds-color-background-tinted: var(--ds-color-extra2-background-tinted);
   --ds-color-surface-default: var(--ds-color-extra2-surface-default);
@@ -1055,7 +1055,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="info"], [data-color-scheme][data-color="info"] {
+[data-color="info"] {
   --ds-color-background-default: var(--ds-color-info-background-default);
   --ds-color-background-tinted: var(--ds-color-info-background-tinted);
   --ds-color-surface-default: var(--ds-color-info-surface-default);
@@ -1081,7 +1081,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="neutral"], [data-color-scheme][data-color="neutral"] {
+[data-color="neutral"] {
   --ds-color-background-default: var(--ds-color-neutral-background-default);
   --ds-color-background-tinted: var(--ds-color-neutral-background-tinted);
   --ds-color-surface-default: var(--ds-color-neutral-surface-default);
@@ -1133,7 +1133,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="success"], [data-color-scheme][data-color="success"] {
+[data-color="success"] {
   --ds-color-background-default: var(--ds-color-success-background-default);
   --ds-color-background-tinted: var(--ds-color-success-background-tinted);
   --ds-color-surface-default: var(--ds-color-success-surface-default);
@@ -1159,7 +1159,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="warning"], [data-color-scheme][data-color="warning"] {
+[data-color="warning"] {
   --ds-color-background-default: var(--ds-color-warning-background-default);
   --ds-color-background-tinted: var(--ds-color-warning-background-tinted);
   --ds-color-surface-default: var(--ds-color-warning-surface-default);

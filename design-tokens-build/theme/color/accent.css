@@ -3,7 +3,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="accent"], [data-color-scheme][data-color="accent"] {
+[data-color="accent"] {
   --ds-color-background-default: var(--ds-color-accent-background-default);
   --ds-color-background-tinted: var(--ds-color-accent-background-tinted);
   --ds-color-surface-default: var(--ds-color-accent-surface-default);

@@ -3,7 +3,7 @@
  */
 
 @layer ds.theme.color {
-[data-color="extra1"], [data-color-scheme][data-color="extra1"] {
+[data-color="extra1"] {
   --ds-color-background-default: var(--ds-color-extra1-background-default);
   --ds-color-background-tinted: var(--ds-color-extra1-background-tinted);
   --ds-color-surface-default: var(--ds-color-extra1-surface-default);
