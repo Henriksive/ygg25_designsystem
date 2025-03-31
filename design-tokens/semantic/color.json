@@ -1,69 +1,69 @@
 {
   "color": {
-    "primary": {
+    "primary-hei-hei": {
       "background-default": {
         "$type": "color",
-        "$value": "{color.primary.1}"
+        "$value": "{color.primary-hei-hei.1}"
       },
       "background-tinted": {
         "$type": "color",
-        "$value": "{color.primary.2}"
+        "$value": "{color.primary-hei-hei.2}"
       },
       "surface-default": {
         "$type": "color",
-        "$value": "{color.primary.3}"
+        "$value": "{color.primary-hei-hei.3}"
       },
       "surface-tinted": {
         "$type": "color",
-        "$value": "{color.primary.4}"
+        "$value": "{color.primary-hei-hei.4}"
       },
       "surface-hover": {
         "$type": "color",
-        "$value": "{color.primary.5}"
+        "$value": "{color.primary-hei-hei.5}"
       },
       "surface-active": {
         "$type": "color",
-        "$value": "{color.primary.6}"
+        "$value": "{color.primary-hei-hei.6}"
       },
       "border-subtle": {
         "$type": "color",
-        "$value": "{color.primary.7}"
+        "$value": "{color.primary-hei-hei.7}"
       },
       "border-default": {
         "$type": "color",
-        "$value": "{color.primary.8}"
+        "$value": "{color.primary-hei-hei.8}"
       },
       "border-strong": {
         "$type": "color",
-        "$value": "{color.primary.9}"
+        "$value": "{color.primary-hei-hei.9}"
       },
       "text-subtle": {
         "$type": "color",
-        "$value": "{color.primary.10}"
+        "$value": "{color.primary-hei-hei.10}"
       },
       "text-default": {
         "$type": "color",
-        "$value": "{color.primary.11}"
+        "$value": "{color.primary-hei-hei.11}"
       },
       "base-default": {
         "$type": "color",
-        "$value": "{color.primary.12}"
+        "$value": "{color.primary-hei-hei.12}"
       },
       "base-hover": {
         "$type": "color",
-        "$value": "{color.primary.13}"
+        "$value": "{color.primary-hei-hei.13}"
       },
       "base-active": {
         "$type": "color",
-        "$value": "{color.primary.14}"
+        "$value": "{color.primary-hei-hei.14}"
       },
       "base-contrast-subtle": {
         "$type": "color",
-        "$value": "{color.primary.15}"
+        "$value": "{color.primary-hei-hei.15}"
       },
       "base-contrast-default": {
         "$type": "color",
-        "$value": "{color.primary.16}"
+        "$value": "{color.primary-hei-hei.16}"
       }
     },
     "accent": {

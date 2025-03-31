@@ -103,10 +103,10 @@
     "group": "Semantic"
   },
   {
-    "id": "593774a74235b661fff40693ca7bda160aadfb74",
-    "name": "primary",
+    "id": "342b4ef7cc340427929b5d0b9a84c2194c7d7f71",
+    "name": "primary-hei-hei",
     "selectedTokenSets": {
-      "semantic/modes/main-color/primary": "enabled"
+      "semantic/modes/main-color/primary-hei-hei": "enabled"
     },
     "group": "Main color"
   },
